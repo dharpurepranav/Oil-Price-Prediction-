@@ -1,0 +1,5 @@
+streamlit==1.24.1
+pandas==1.4.4
+numpy==1.23.3
+matplotlib==3.5.3
+pickle==1.0.2
